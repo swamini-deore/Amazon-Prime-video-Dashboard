@@ -71,5 +71,3 @@ Explore interactive visuals with slicers and filters.
 
 📱 Build a mobile-friendly Power BI dashboard.
 
-
-Do not share my personal information
